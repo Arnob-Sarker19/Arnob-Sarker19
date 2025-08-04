@@ -23,10 +23,12 @@
 
 ---
 
+
 ## ✨ Featured Projects
-🔹 [🔗 Portfolio Website](portfolio-arnob.vercel.app) – Animated, code-themed design  
-🔹 [📊 Scholl Website](arnob-sarker19.github.io/school/) – Built with React + Firebase 
-🔹 [🐈 Pet Shop](arnob-sarker19.github.io/pet-shop/) – Editable, modern & multilingual  
+🔹 [🔗 Portfolio Website](portfolio-arnob.vercel.app)–Animated, code-themed design  
+🔹 [📊 Scholl Website](arnob-sarker19.github.io/school/)–Built with React + Firebase 
+🔹 [🐈 Pet Shop](arnob-sarker19.github.io/pet-shop/)–Editable, modern & multilingual  
+
 
 
 ---
