@@ -25,9 +25,9 @@
 
 
 ## ✨ Featured Projects
-🔹 [🔗 Portfolio Website](portfolio-arnob.vercel.app)–Animated, code-themed design  
-🔹 [📊 Scholl Website](arnob-sarker19.github.io/school/)–Built with React + Firebase 
-🔹 [🐈 Pet Shop](arnob-sarker19.github.io/pet-shop/)–Editable, modern & multilingual  
+🔹 [🔗 Portfolio Website](https://your-portfolio-link.com) – Animated, code-themed design  
+🔹 [📊 Result Viewer App](https://your-app.vercel.app) – Built with React + Firebase  
+🔹 [🏫 College Website](https://college-site.vercel.app) – Editable, modern & multilingual  
 
 
 
@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arnob-sarker-a0186866s/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnob-sarker-a0186866s/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sarkerarnobsarker21@gmail.com)
 
 ---
