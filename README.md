@@ -41,5 +41,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sarkerarnobsarker21@gmail.com)
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arnob-sarker-a0186866s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnob-sarker-a0186866s" height="30" width="40" /></a>
+<a href="https://fb.com/arnobs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnobs21" height="30" width="40" /></a>
+</p>
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
