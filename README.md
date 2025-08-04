@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arnob Sarker
 
 🚀 Aspiring Front-End Developer | CSE Student  
-📍 Bogra, Bangladesh  
+📍 Mymensingh, Bangladesh  
 🌐 Passionate about building creative web experiences  
 
 ---
@@ -18,16 +18,16 @@
 ---
 
 ## ✨ Featured Projects
-🔹 [🔗 Portfolio Website](https://your-portfolio-link.com) – Animated, code-themed design  
-🔹 [📊 Result Viewer App](https://your-app.vercel.app) – Built with React + Firebase  
-🔹 [🏫 College Website](https://college-site.vercel.app) – Editable, modern & multilingual  
+🔹 [🔗 Portfolio Website](portfolio-arnob.vercel.app) – Animated, code-themed design  
+🔹 [📊 Scholl Website](arnob-sarker19.github.io/school/) – Built with React + Firebase 
+🔹 [🐈 Pet Shop](arnob-sarker19.github.io/pet-shop/) – Editable, modern & multilingual  
 
 ---
 
 ## 📊 GitHub Stats
-![Arnob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnobsarker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobsarker&layout=compact&theme=radical)
-
+![Arnob-Sarker's Stats](https://github-readme-stats.vercel.app/api?username=Arnob-Sarker19&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+![Arnob-Sarker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnob-Sarker19&theme=blueberry&hide_border=false) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnob-Sarker19&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
 ## 📫 Connect With Me
