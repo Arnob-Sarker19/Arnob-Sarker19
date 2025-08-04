@@ -19,9 +19,14 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob-sarker19&label=Profile%20views&color=0e75b6&style=flat" alt="arnob-sarker19" /> </p>
+## 🏆 GitHub Achievements
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob-sarker19&label=Profile%20views&color=0e75b6&style=flat" alt="arnob-sarker19" /> </p>  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arnob-sarker19&theme=dracula&column=4&margin-w=10&margin-h=15" alt="arnob-sarker19 trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob-sarker19" alt="arnob-sarker19" /></a> </p>
 
 
 ---
